@@ -1,0 +1,29 @@
+body{
+    background: rgb(68, 125, 199);
+    font: normal 15pt Comic Sans MS;
+    font-family: "Comic Sans MS";
+}
+header{
+    text-align: center;    
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 363);
+}
+div#numeros{
+    text-align: center;
+}
+div#result{
+    padding-top: 20px;
+}
+div#btn{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+}
